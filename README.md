@@ -1,8 +1,10 @@
+
 # ins_ssl_pinning
 
 
 [Instagram V78](https://www.apkmirror.com/apk/instagram/instagram-instagram/instagram-instagram-78-0-0-11-104-139906-release/)
-This is inspired by Instagram_SSL_Pinning(https://github.com/pouyadarabi/Instagram_SSL_Pinning) and [How to bypass Instagram SSL Pinning on Android](https://plainsec.org/how-to-bypass-instagram-ssl-pinning-on-android-v78/)
+
+This is inspired by [Instagram_SSL_Pinning](https://github.com/pouyadarabi/Instagram_SSL_Pinning) and [How to bypass Instagram SSL Pinning on Android](https://plainsec.org/how-to-bypass-instagram-ssl-pinning-on-android-v78/)
 
 Make sure you have a rooted android device
 
